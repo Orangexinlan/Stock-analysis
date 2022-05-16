@@ -10,9 +10,9 @@ So we created a code with VBA to automate analyses allows Streve to reuse it wit
 ## Analysis and Results
 
 ### Analysis
-![this is an image]https://github.com/Orangexinlan/Stock-analysis/blob/92dce54850e1d202a4f453109ba85baaee3ad573/Resources/2017%20Return.png
+![this is an image](https://github.com/Orangexinlan/Stock-analysis/blob/92dce54850e1d202a4f453109ba85baaee3ad573/Resources/2017%20Return.png)
 
-![this is an image]https://github.com/Orangexinlan/Stock-analysis/blob/92dce54850e1d202a4f453109ba85baaee3ad573/Resources/2018%20Reurn.png
+![this is an image](https://github.com/Orangexinlan/Stock-analysis/blob/92dce54850e1d202a4f453109ba85baaee3ad573/Resources/2018%20Reurn.png)
 
 ### Challenges and Difficulties Encountered
 Since we figured out how different campaigns fared in relation to their launch dates and their funding goals.As we see when the Goal is over $10,000, the successful percentage is below 60%. 
