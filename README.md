@@ -12,20 +12,32 @@ So we created a code with VBA to automate analyses allows Streve to reuse it wit
 ## Results
 The two images below showed how efficient this refactor code could be.
 Here's the code on how this image pop up.
-    endTime = Timer
-    MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
-••••ˇˇˇˇ
+   
+   endTime = Timer
+    
+  MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
+
 
 ![this is an image](https://github.com/Orangexinlan/Stock-analysis/blob/47576c9fe175d255348ab553c0d4ded27872ee79/Resources/VBA_Challenge_2017.png)
 ![this is an image](https://github.com/Orangexinlan/Stock-analysis/blob/47576c9fe175d255348ab553c0d4ded27872ee79/Resources/VBA_Challenge_2018.png)
 
 ### Analysis
 From two images listed below, we can tell that in 2017, only one company had negative year return. But in 2018, nearly 83% of the company has negative year return.
-![this is an image](https://github.com/Orangexinlan/Stock-analysis/blob/92dce54850e1d202a4f453109ba85baaee3ad573/Resources/2017%20Return.png)![this is an image](https://github.com/Orangexinlan/Stock-analysis/blob/92dce54850e1d202a4f453109ba85baaee3ad573/Resources/2018%20Reurn.png)
 
-### Challenges and Difficulties Encountered
-Since we figured out how different campaigns fared in relation to their launch dates and their funding goals.As we see when the Goal is over $10,000, the successful percentage is below 60%. 
-The things we need top focus on is when to lunch the canpaign and how long it will last. How we can use the data to make sure Louise will get her goal funds.
+![this is an image](https://github.com/Orangexinlan/Stock-analysis/blob/92dce54850e1d202a4f453109ba85baaee3ad573/Resources/2017%20Return.png)
+![this is an image](https://github.com/Orangexinlan/Stock-analysis/blob/92dce54850e1d202a4f453109ba85baaee3ad573/Resources/2018%20Reurn.png)
 
+## Summary
 
-### What are two conclusions you can draw about the Outcomes based on Launch Date?
+### the advantages or disadvantages of refactoring code
+
+#### the advantages
+Efficiency-- With the Refactor Code, Excel is taking less time to excute the code. Since the functionality stays the same.
+
+#### the disadvantages
+Frustrating-- The code is often difficult fot costomers to recgnize
+
+### How do these pros and cons apply to refactoring the original VBA script
+Determine the refactoring successfully made is to see if the VBA script run faster. 
+By applying the refactor code, the VBA runs around Five times faster than the original one. That means the refactor code we wrote is actually working. 
+But in the meantime it's also frustrating. We need to figure out what exatly each code means in the steps. It is so easy to confuse with the original code.
