@@ -11,6 +11,7 @@ So we created a code with VBA to automate analyses allows Streve to reuse it wit
 
 ### Analysis
 ![this is an image]https://github.com/Orangexinlan/Stock-analysis/blob/92dce54850e1d202a4f453109ba85baaee3ad573/Resources/2017%20Return.png
+
 ![this is an image]https://github.com/Orangexinlan/Stock-analysis/blob/92dce54850e1d202a4f453109ba85baaee3ad573/Resources/2018%20Reurn.png
 
 ### Challenges and Difficulties Encountered
